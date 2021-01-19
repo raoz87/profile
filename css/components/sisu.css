@@ -1,0 +1,62 @@
+
+/*.container_sisu {
+  margin:0 180px;
+  }*/
+
+
+/*.container_sisu img{
+  cursor: pointer;
+  margin-top: 20px;
+  width: 100%;
+  box-shadow: 0px 4px 4px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  padding: 10px;
+  object-fit: contain;
+  height: 60vh;
+
+}*/
+
+.sisu_hero img {
+  height: 65vh;
+  margin-right: 0;
+  justify-content: right;
+  box-shadow: none; important!
+
+}
+
+.sisu_hero h5{
+  font-weight: normal;
+  font-size: large;
+}
+
+
+.sisu_hero{
+  display: flex;
+  margin-top: 60px;
+  margin-right: 180px;
+  margin-left: 180px;
+}
+
+
+
+/*.info img{
+  width: 100%;
+}
+
+.audit img{
+  width: 100%;
+}
+
+.system img{
+  width: 100%;
+}
+
+.journey img{
+  width: 100%;
+}
+
+.upload img{
+  width: 100%;
+}*/
+
+

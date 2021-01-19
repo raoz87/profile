@@ -1,0 +1,70 @@
+/*.hero img {
+height: 70vh;
+width: auto;
+margin-right: 100px;
+}*/
+
+/*img {
+  box-shadow: 0px 4px 4px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}*/
+
+/*.container_inktank {
+  margin:0 180px;
+}*/
+
+.inktank_hero img {
+  height: 65vh;
+  margin-right: 0;
+  justify-content: right;
+box-shadow: none; important!
+}
+
+.inktank_hero{
+  display: flex;
+  margin-top: 60px;
+  margin-right: 180px;
+  margin-left: 180px;
+}
+
+
+.inktank_hero h4 {
+  color:red;
+}
+
+.int img{
+width: 100%;
+}
+
+
+
+.persona img{
+overflow: hidden;
+object-fit: cover;
+width: 100%;
+margin-top: 50px;
+}
+
+/*.journey img{
+width: 100%;
+margin-top: 50px;
+}
+
+.matrix img{
+width: 100%;
+}
+
+.ab img{
+width: 100%;
+}
+
+
+.test img{
+width: 100%;
+}
+
+
+.hifi img{
+margin-bottom:60px;
+width: 100%;
+}*/

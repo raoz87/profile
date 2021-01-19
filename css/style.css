@@ -1,0 +1,135 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+/* Importing Google fonts */
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+
+/* Importing components */
+
+@import url("components/navbar.css");
+@import url("components/ksb.css");
+@import url("components/inktank.css");
+@import url("components/sisu.css");
+
+/* Importing layouts */
+.container1 {
+  margin:0 200px;
+}
+
+.container p {
+line-height: 1.6;
+}
+
+.container1 img{
+  cursor: pointer;
+  margin-top: 20px;
+  width: 100%;
+  box-shadow: 0px 2px 2px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  object-fit: contain;
+  height: 60vh;
+}
+
+.hero {
+  margin:0 180px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.texthero {
+
+}
+
+.trial {
+  position: relative;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    height: 65vh;
+    margin: 30px;
+ }
+
+.trial1 {
+  position: relative;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    height: 65vh;
+    margin: 30px;
+ }
+
+.trial2 {
+  position: relative;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    height: 65vh;
+    margin: 30px;
+ }
+
+
+
+.m2 h1 {
+    color: white;
+    z-index: 2;
+    font-size: 6vw;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: 20px;
+
+}
+
+.trail img {
+  position: absolute;
+
+}
+
+
+#popup-img {
+  height: 80vh;
+  width:100%;
+}
+
+.hero img {
+  height: 65vh;
+  width: auto;
+  box-shadow: none; important!
+}
+
+.m1 :hover {
+opacity: .7;
+transition:.3s;
+}
+
+.m2 :hover {
+opacity: .9;
+transition:.3s;
+}
+
+.s2 {
+  margin-top: 20px;
+}
+
+.container p li {
+ font-weight: 400;
+}
+
+.container img {
+
+ width: 100%
+}
+
+.wireframes img{
+height: 280px; important!
+padding: 20px; important!
+}
